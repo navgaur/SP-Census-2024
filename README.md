@@ -1,6 +1,6 @@
 # Programs used for the Summer Project done in June-August 2024 at Dyal Singh College. 
 
-**Title : Statistical Analysis of Census Data.
+## Title : Statistical Analysis of Census Data.
 
 Students : Gaurav Godara, Lehar Bansal, Shubham Tiwari, Stuti Gupta, Yash Kumar Singh 
 
